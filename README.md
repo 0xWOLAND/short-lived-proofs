@@ -1,0 +1,5 @@
+- posiedon hash
+- merkle tree for inclusion proof
+- wesolowski proof inside of a zk-snark (https://www.youtube.com/watch?v=ZB4lSHhita0)
+- drand for random beacon
+- boolean OR logic
